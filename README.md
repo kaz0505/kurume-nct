@@ -1,1 +1,1 @@
-"# kurume-nct" 
+# kurume-nct
